@@ -1,0 +1,10 @@
+{
+  "name": "Todo Extension",
+  "version": "1.0",
+  "description": "Add your daily task todos.",
+  "manifest_version": 3,
+  "action": {
+    "default_title": "Todo",
+    "default_popup": "index.html"
+  }
+}
